@@ -1,0 +1,25 @@
+d:\medvedya docs\visual studio 2015\Projects\WHash\WHash\bin\Debug\WHash.exe.config
+d:\medvedya docs\visual studio 2015\Projects\WHash\WHash\bin\Debug\WHash.exe
+d:\medvedya docs\visual studio 2015\Projects\WHash\WHash\bin\Debug\WHash.pdb
+d:\medvedya docs\visual studio 2015\Projects\WHash\WHash\obj\Debug\WHash.csprojResolveAssemblyReference.cache
+d:\medvedya docs\visual studio 2015\Projects\WHash\WHash\obj\Debug\WHash.Form1.resources
+d:\medvedya docs\visual studio 2015\Projects\WHash\WHash\obj\Debug\WHash.Properties.Resources.resources
+d:\medvedya docs\visual studio 2015\Projects\WHash\WHash\obj\Debug\WHash.csproj.GenerateResource.Cache
+d:\medvedya docs\visual studio 2015\Projects\WHash\WHash\obj\Debug\WHash.exe
+d:\medvedya docs\visual studio 2015\Projects\WHash\WHash\obj\Debug\WHash.pdb
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\bin\Debug\WHash.exe.config
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\obj\Debug\WHash.exe
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\obj\Debug\WHash.pdb
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\bin\Debug\WHash.exe
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\bin\Debug\WHash.pdb
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\bin\Debug\mscorlib.dll
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\bin\Debug\normidna.nlp
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\bin\Debug\normnfc.nlp
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\bin\Debug\normnfd.nlp
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\bin\Debug\normnfkc.nlp
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\bin\Debug\normnfkd.nlp
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\obj\Debug\WHash.csprojResolveAssemblyReference.cache
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\obj\Debug\WHash.Form1.resources
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\obj\Debug\WHash.Properties.Resources.resources
+C:\Users\Ира\Desktop\ahashv2\WHash\WHash\obj\Debug\WHash.csproj.GenerateResource.Cache
